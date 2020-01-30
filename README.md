@@ -67,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # TODOIST-CLONE
+
+### Technologies used
+Languages/Libraries: React (create react app), React Context, React Hooks, React Testing Library, SCSS, BEM, JavaScript
+Workflow: VSCode (GitHub pro theme), iTerm2, Lighthouse (for accessibility testing)
